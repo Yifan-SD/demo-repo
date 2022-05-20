@@ -33,3 +33,7 @@ The next step depends on the current status and your expectations:
 If you didn't make any changes, type :q and press Enter/return
 If you made some changes and would like to keep them, type :wq and press Enter/return
 If you made some changes and would rather discard them, type :q! and press Enter/return
+
+## Local Development
+
+1. Open index.html in your browser
