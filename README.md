@@ -23,7 +23,7 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:Yifan-SD/demo-repo2.git
-git push -u origin main  // use 'git push' from now on
+git push -u origin main  // short hand - use 'git push' from now on 
 git remote -v //see all the connection
 
 //TL;DR – How to Exit Vim
@@ -37,3 +37,5 @@ If you made some changes and would rather discard them, type :q! and press Enter
 ## Local Development
 
 1. Open index.html in your browser
+
+commit - PR (pull request) - merge
