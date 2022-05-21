@@ -17,7 +17,7 @@ git push origin main
 Problrm: git Please tell me who you are
 Solve: git config --global user.email "youremail"
 
-# when create a new fold locally, create new reposiory online and do following: 
+# when create a new fold locally, create new repository online and do following: 
 git init
 git add README.md
 git commit -m "first commit"
